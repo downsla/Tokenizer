@@ -1,4 +1,6 @@
 # Tokenizer
+COSC 3308 Design Programming Languages - Tokenizer Project 11/22/2020
+
 Write an Oz program which reads a sequence of characters, and provides in the output the list of tokens according to the above rules. If a token cannot be accepted, then the Oz program should provide an error message accordingly.  
 For example, the file  
 
